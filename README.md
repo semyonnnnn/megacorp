@@ -2,5 +2,4 @@
 
 The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
 
-deleted again
- i deleted stuff
+stash 3 2
