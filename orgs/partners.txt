@@ -1,4 +1,1 @@
-partner list
-SalesInc
-TheStartup
-ClosedML
+im doing cherry pick again
